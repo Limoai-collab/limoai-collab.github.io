@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.limoai_collab.twa",
+      "sha256_cert_fingerprints": ["1A:CB:FC:2C:9A:51:DE:B9:C2:3F:CE:6C:95:E3:95:59:A2:59:C7:7E:16:53:E1:71:56:F3:E2:A5:02:93:A4:E8"]
+    }
+  }
+]
